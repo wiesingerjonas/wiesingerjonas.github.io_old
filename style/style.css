@@ -1,6 +1,5 @@
 body{
   background: #931B0E;
-  background-image: linear-gradient(to bottom right, #931B0E, #521A0C);
   display: flex;
   justify-content: center;
   margin: 0;
@@ -8,6 +7,7 @@ body{
   font-family: 'Gill Sans Nova Light', sans-serif;
   color: #353b48;
   text-align: center;
+  background-image: linear-gradient(to bottom right, #931B0E, #521A0C);
 }
 h1{
   font-size: 50px;
